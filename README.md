@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @AwarikaroRudolphHodds
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning pyhton and html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m an aspiring cyber security analyst
+- 📫 You can reach me via email ... awarikarorudolph@gmail.com
+- ⚡ Fun fact: ...I'm very funny
 
 <!---
 AwarikaroRudolphHodds/AwarikaroRudolphHodds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
